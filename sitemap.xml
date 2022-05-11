@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://testsite.org/categories/</loc>
+    <loc>https://mjmagin.github.io/hugotest.github.io/categories/</loc>
   </url><url>
-    <loc>https://testsite.org/content/</loc>
+    <loc>https://mjmagin.github.io/hugotest.github.io/content/</loc>
   </url><url>
-    <loc>https://testsite.org/</loc>
+    <loc>https://mjmagin.github.io/hugotest.github.io/</loc>
   </url><url>
-    <loc>https://testsite.org/tags/</loc>
+    <loc>https://mjmagin.github.io/hugotest.github.io/tags/</loc>
   </url>
 </urlset>
